@@ -1,2 +1,2 @@
 # Test about hooks
-# Counter with useState/Effect
+Counter with useState/Effect
